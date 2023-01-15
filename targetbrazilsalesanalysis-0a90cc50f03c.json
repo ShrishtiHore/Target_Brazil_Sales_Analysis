@@ -1,12 +1,14 @@
 {
   "type": "service_account",
   "project_id": "targetbrazilsalesanalysis",
-  "private_key_id": "0a90cc50f03c782d30b27803f2eeb4be5063eb68",
+  "private_key_id": "----------------------------",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+P/XsC7UgSidU\n7G6M53+/AmAbbkmqx6q+WRLR7FPEEihbT3khWelAa+ABNUjx9qZAWPtwULlzmtwW\n8ftDW+WYXpvaWumJq3pE09U7oPXUtgzELu85rowC4KUnpZDDyPh1sqjDPFvrQa9r\nivLQgrvyE+xdHlDSzImcJNnhqJFE3HULQ0/ikGxu2HzOg24BTfqo2CVG/XCT3fdy\nFs1ZbOKWSWFdhZzrxIIB7q7NInZck1CDfyuCFbhswnBOe2Ry1IxCdeN4iO70yHbo\n5PmWl1fDntxRZRXfnQdP2u2Lqm+QxAeH8wX1oaQzBP0xhXMEPgMyHW1BUVoPISk1\n5JkctIobAgMBAAECggEAC6k9+J7rFjSVXpYzXH2gDeQmYegLqeUdKReqmKVkqQL3\n6EjhwtKRAnraOxi6BOK6Y/1QRB0ekOBwFxPz87gBRaqe4O5rnB2fm/JkAoimKMiT\n1b6OuTliqZZ9aQWz7tw1pnkx8O2VMMFQ8EWPBorM3FSuSzLdf148HQ8BL9y2MsM5\nZVqsFady2nS73EoY6hxVpqFaBrM2nPUze1vcnufuz7CiB2hgeTPvqiW5bPZn9of1\n0FAKJ/5J0uxsx2EUQDVRr2Lp/Bl8q57r2hh9airacHzNm5IXfXqK2eewkUhnI8yi\npLqSNgD8o7Cr6VFMBtXlGbyjUZXZPj8npTcebcTLyQKBgQDtQHV5KPNpj+OMr700\ns524VnojEm2NiXFphrkKndg6l+3lOOLjshR4q/uxClRWa1dEUujQdTm19wmm07R0\nz9QEHU+hWK0k75B+sYW1t0CgR49pOtLLmQDbtBaB0s0bwfKJBwhy/JzomyfBE/5J\nPuSg2E3dLuak9aHQcpL6Of/UjQKBgQDNSKovq48V/ulRsCSoTm/4t4FWIiEKu6qp\nistwmcTafbk/mQr988ArG1t4daPQOJ248S+oeqLrgPxsMU5ypUKP4Adjxcd5ZWl0\n/zR4aDY9a+vh8/xU4dooZLwKyrXqc2GfC8S5C85UsPQjlI+NsJQVMsLw3L8IMkNB\nzABC3iqzRwKBgB4IUtaLgISUWlGszV6mfgifqcZWxtdr1pdtHm9hm8WPBeZGVTJN\nkJnV6351uEdYPyu+8wmwTSXjp60ej3FZ/ZSnwTTDbOeIC9p9zlc6Y0vmwxinAZgU\nPi+RlGfKr3wcCP+fjEpB//rR6S5fwYi0FWzm9LRTA49OKLWiS0ixntjhAoGAWkrt\n4E3bf9dBlNafKRBnG8TLNLGKSwhEhpIv7XUVKu1Fv/124kCGc+9yikdkKD/ez+v2\nBGr8og13+bauRKr/3fyyA2aI2JKMkhN2Zsefo+CGPjps8IDuzfmQ5EZJQbhCZgxt\nGN9if8ndeJDtm2rhl3leWUcfF2HUR2qNatwBeB0CgYEAzVWd0EVP5kPxiVwk/PAh\nt8cpbZ6zDaO+hLg8mGQHyXRW7t+slRv+nmZGSn+RJpeQ+Ur06dCfnXOdz+vC3I1x\ndpwcpFnARERpejdwtyv3q/+S+vcPafnm11GtrAqHSkTy2k1SUoBnhVRBoZIe1qot\n2SZOZdUrOxp5QGHVHDXP2Ao=\n-----END PRIVATE KEY-----\n",
-  "client_email": "shrishtihore@targetbrazilsalesanalysis.iam.gserviceaccount.com",
-  "client_id": "103919253597304721024",
+  "client_email": "-------------------------@targetbrazilsalesanalysis.iam.gserviceaccount.com",
+  "client_id": "---------------------------",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shrishtihore%40targetbrazilsalesanalysis.iam.gserviceaccount.com"
 }
+
+IDS removed due to security purposes
